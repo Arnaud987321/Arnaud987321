@@ -1,4 +1,4 @@
-### Hi there its Arnaud here 👋
+### Hi there, its Arnaud here 👋
 
 - 🔭 I’m interested in business intelligence, data analysis and data science.
 
