@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m interested in business intelligence and data analysis.
+- 🔭 I’m interested in business intelligence and data analysis and have a background in Industrial Controlling with daily insights in Production and Finance.
 
 - 🌱 I’m currently learning Python and SQL and recently received IBM Data Science Professional Certificate.
 
