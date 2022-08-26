@@ -2,7 +2,7 @@
 
 - 🔭 I’m interested in business intelligence, data analysis and data science.
 
-- 🌱 I recently received IBM Data Science Professional Certificate which provides me a good overview of Python and SQL.
+- 🌱 I recently received IBM Data Science Professional Certificate with a good overview of Python and SQL.
 
 - 📊 I have +9 years of experience as an Industrial Controller coming up with daily insights in Production and Finance for the automotive industry.
 
